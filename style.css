@@ -56,3 +56,8 @@ button {
     background: #6dd5ed;
     border-radius: 30px;
 }
+
+.github {
+    padding-bottom: 20px;
+    font-size: 30px;
+}
