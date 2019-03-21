@@ -1,0 +1,58 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    text-align: center;
+    background-color: #6dd5ed;
+}
+
+.main-form {
+    width: 90%;
+    height: auto;
+    margin: 20px auto;
+    background-color: #F2F2F2;
+    overflow: hidden;
+    padding: 20px;
+}
+
+#desc {
+    font-size: 22px;
+    padding-top: 20px;
+}
+
+.rowTab {
+    display: block;
+    margin: 20px auto;
+}
+
+.labels {
+    display: inline-block;
+    text-align: right;
+    width: 48%;
+    vertical-align: top;
+}
+
+.rightTab {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+    vertical-align: middle;
+    margin-left: 2%;
+}
+
+.labels label {
+    font-size: 18px;
+}
+
+.rightTab>* {
+    font-size: 18px;
+}
+
+button {
+    padding: 10px 20px 10px 20px;
+    font-size: 18px;
+    background: #6dd5ed;
+    border-radius: 30px;
+}
